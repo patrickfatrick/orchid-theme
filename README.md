@@ -1,4 +1,4 @@
-![Brackets Themes](https://github.com/Brackets-Themes/TomorrowNight/blob/master/bracket-themes-icon-100x99.png) The Orchid for Brackets
+![Brackets Themes](https://github.com/Brackets-Themes/TomorrowNight/blob/master/bracket-themes-icon-100x99.png) The Orchid theme for Brackets
 =========
 
 A Brackets original. This theme is intended to be easy on the eyes.
@@ -6,6 +6,8 @@ A Brackets original. This theme is intended to be easy on the eyes.
 CSS is modified from Ryan Stewart's [Tomorrow Night theme for Brackets](https://github.com/Brackets-Themes/TomorrowNight).
 
 Also incorporates [Code Folding](https://github.com/thehogfather/brackets-code-folding) and [CSS Color Preview](https://github.com/cmgddd/Brackets-css-color-preview) styling taken from Dustin Dowell's [Neon theme](https://github.com/dustindowell22/neon-brackets-theme). Active tab color default in [Documents Toolbar](https://github.com/dnbard/brackets-documents-toolbar) matches the background color of the theme.
+
+Font used in screenshots is Monaco.
 
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 

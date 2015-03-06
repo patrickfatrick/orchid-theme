@@ -1,0 +1,20 @@
+{
+    "title": "Orchid",
+    "name": "orchid-theme",
+    "description": "Orchid theme for Brackets",
+    "version": "0.0.1",
+    "author": "Patrick Fricano <patrick.fricano@icloud.com> (http://github.com/patrickfatrick)",
+    "homepage": "https://github.com/patrickfatrick/BracketsOrchidTheme",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com/patrickfatrick/BracketsOrchidTheme.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "orchid-theme.css",
+        "dark": true
+    },
+    "screenshot": "tomorrow-night-eighties-css.tiff"
+}

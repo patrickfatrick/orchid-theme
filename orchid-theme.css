@@ -1,0 +1,146 @@
+.CodeMirror .CodeMirror-scroll {
+    background-color: #262626;
+    color: #FFFAED;
+}
+
+.CodeMirror-focused .CodeMirror-activeline-background {
+    outline: 1px solid #393939;
+    background: #393939;
+}
+
+.show-line-padding .CodeMirror-focused .CodeMirror-activeline-background {
+    box-shadow: inset 15px 0 0 0 #393939;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+        background: #393939;
+        color: #515151;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
+        color: #393939;
+}
+
+.CodeMirror.find-highlighting div.CodeMirror-selected,
+.CodeMirror .CodeMirror.find-highlighting div.CodeMirror-selected {
+    background: #E84D49;
+}
+
+.CodeMirror-cursor {
+    border-left: 1px solid #cccccc !important;
+}
+
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-left: none !important;
+    border-bottom: 1px solid #cccccc;
+}
+
+.CodeMirror-gutters {
+    background-color: #1d1f21;
+    border-right: none;
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+    color: #cccccc;
+}
+
+.CodeMirror .CodeMirror-selected {
+    background: #515151;
+}
+.CodeMirror-focused .CodeMirror-selected {
+    background: #515151;
+}
+
+.CodeMirror-matchingbracket, .CodeMirror-matchingtag {
+    /* Ensure visibility against gray inline editor background */
+    background-color: #515151;
+    color: #cccccc !important;
+}
+
+.cm-atom { color: #00B0FF; }
+.cm-qualifier { color: #FFDAA5; }
+.cm-def { color: #FFDAA5; }
+.cm-keyword { color: #DA70D6; }
+.cm-comment { color: #BF9E80; font-style: italic; }
+.cm-string {color: #00B0FF;}
+.cm-string-2 {color: #68E2F2;}
+.cm-variable { color: #68E2F2; }
+.cm-variable-2 { color: #FF9A69; }
+.cm-variable-3 { color: #DA70D6; }
+.cm-tag { color: #DA70D6; }
+.cm-attribute { color: #63E87F; font-style: italic; }
+.cm-property { color: #63E87F; }
+.cm-number {color: #68E2F2; }
+.cm-meta {color: #BF9E80; font-style: italic; }
+.cm-operator {color: #68E2F2; }
+.cm-builtin { color: #FF9A69; }
+.cm-hr { color: #68E2F2; }
+.cm-plus { color: #63E87F; }
+.cm-bracket { color: #DA70D6; }
+.cm-error { color: #E84D49; }
+.cm-minus { color: #E84D49; }
+.cm-quote { color: #FFDAA5; }
+
+/* Non-editor styling */
+
+#image-holder,
+#not-editor {
+    background-color: #1d1f21;
+}
+
+#image-holder {
+    color: #515151;
+}
+
+/* Code Folding */
+
+.CodeMirror-foldgutter {
+  width: 2em;
+}
+
+.CodeMirror-foldgutter-open,
+.CodeMirror-foldgutter-folded,
+.CodeMirror-foldgutter-blank {
+  text-align: center;
+  width: 100%;
+}
+
+.CodeMirror-foldgutter-open,
+.CodeMirror-foldgutter-folded,
+.CodeMirror-foldgutter-blank::after {
+    position: relative;
+    top: 0.0625em;
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.33);
+  }
+
+.CodeMirror-foldmarker {
+  display: inline-block;
+  margin: 0 0.125em;
+  border-radius: 0.75em;
+  border: 0;
+  color: rgba(255, 255, 255, 0.66);
+  background-color: rgba(255, 255, 255, 0.16);
+}
+
+.CodeMirror-foldmarker::after {
+    content: '\2022\2022\2022';
+    position: relative;
+    top: -0.0625em;
+  }
+
+/* CSS Color Preview */
+
+.ico-cssColorPreview {
+  display: block;
+  width: 0.5em;
+  height: 1.25em;
+  margin: 0;
+  border: 0;
+}
+
+/* Document Toolbar */
+
+.ext-documents .document.selected {
+    background-color: #262626;
+}

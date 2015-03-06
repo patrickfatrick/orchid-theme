@@ -10,16 +10,16 @@ Also incorporates [Code Folding](https://github.com/thehogfather/brackets-code-f
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
 ## CSS 
-![Orchid Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-css.tiff)
+![Orchid Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css.tiff)
 
 ## HTML
-![Orchid Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-html.tiff)
+![Orchid Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-html.tiff)
 
 ## JavaScript
-![Orchid Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-js.tiff)
+![Orchid Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-js.tiff)
 
 ## Code Folding
-![Orchid with Code Folding](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-code-folding.tiff)
+![Orchid with Code Folding](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-code-folding.tiff)
 
 ## CSS Color Preview
-![Orchid with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/TomorrowNightEighties/master/tomorrow-night-eighties-color-preview.tiff)
+![Orchid with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css-color-preview.tiff)

@@ -61,7 +61,7 @@
 .cm-qualifier { color: #FFDAA5; }
 .cm-def { color: #FFDAA5; }
 .cm-keyword { color: #DA70D6; }
-.cm-comment { color: #BF9E80; font-style: italic; }
+.cm-comment { color: #9E7766; font-style: italic; }
 .cm-string {color: #00B0FF;}
 .cm-string-2 {color: #68E2F2;}
 .cm-variable { color: #68E2F2; }
@@ -71,7 +71,7 @@
 .cm-attribute { color: #63E87F; font-style: italic; }
 .cm-property { color: #63E87F; }
 .cm-number {color: #68E2F2; }
-.cm-meta {color: #BF9E80; font-style: italic; }
+.cm-meta {color: #9E7766; font-style: italic; }
 .cm-operator {color: #68E2F2; }
 .cm-builtin { color: #FF9A69; }
 .cm-hr { color: #68E2F2; }

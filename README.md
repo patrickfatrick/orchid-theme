@@ -11,6 +11,9 @@ The font used in the screenshots is Monaco, in case you're curious.
 
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
+## Theme Colors
+![Colors](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-theme-colors.tiff)
+
 ## CSS 
 ![Orchid Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css.tiff)
 

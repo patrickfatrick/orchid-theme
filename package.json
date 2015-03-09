@@ -1,8 +1,8 @@
 {
-    "title": "Orchid",
+    "title": "Orchid Theme",
     "name": "orchid-theme",
     "description": "Orchid theme for Brackets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Patrick Fricano <patrick.fricano@icloud.com> (http://github.com/patrickfatrick)",
     "homepage": "https://github.com/patrickfatrick/orchid-theme",
     "repository": {

@@ -26,7 +26,7 @@ For more themes and install instructions see the [Brackets Themes website](http:
 ![Orchid Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-js.tiff)
 
 ## Code Folding
-![Orchid with Code Folding](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-code-folding.tiff)
+![Orchid with Code Folding](https://github.com/patrickfatrick/orchid-theme/blob/master/orchid-code-folding.tiff?raw=true)
 
 ## CSS Color Preview
 ![Orchid with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css-color-preview.tiff)

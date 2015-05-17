@@ -12,21 +12,21 @@ The font used in the screenshots is Monaco, in case you're curious.
 For more themes and install instructions see the [Brackets Themes website](http://brackets-themes.github.io/)
 
 ## Theme Colors
-![Colors](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-theme-colors.tiff)
+![Colors](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-theme-colors.png)
 
 `#FF9A69` `#B28773` `#262626` `#FFDAA5` `#E84D49` `#DA70D6` `#63E87F` `#FFFAED` `#00B0FF` `#68E2F2`
 
 ## CSS 
-![Orchid Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css.tiff)
+![Orchid Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css.png)
 
 ## HTML
-![Orchid Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-html.tiff)
+![Orchid Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-html.png)
 
 ## JavaScript
-![Orchid Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-js.tiff)
+![Orchid Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-js.png)
 
 ## Code Folding
 ![Orchid with Code Folding](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-code-folding.png)
 
 ## CSS Color Preview
-![Orchid with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css-color-preview.tiff)
+![Orchid with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css-color-preview.png)

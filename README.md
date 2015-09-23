@@ -14,19 +14,19 @@ For more themes and install instructions see the [Brackets Themes website](http:
 ## Theme Colors
 ![Colors](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-theme-colors.png)
 
-`#FF9A69` `#B28773` `#262626` `#FFDAA5` `#E84D49` `#DA70D6` `#63E87F` `#FFFAED` `#00B0FF` `#68E2F2`
+`#FF9A69` `#B28773` `#262626` `#FFDAA5` `#E84D49` `#DA70D6` `#63E87F` `#FFFAED` `#00B0FF` `#00FFFF`
 
 ## CSS 
-![Orchid Theme in a CSS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css.png)
+![Orchid Theme in a CSS file](./orchid-css.png)
 
 ## HTML
-![Orchid Theme in an HTML file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-html.png)
+![Orchid Theme in an HTML file](./orchid-html.png)
 
 ## JavaScript
-![Orchid Theme in a JS file](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-js.png)
+![Orchid Theme in a JS file](./orchid-js.png)
 
 ## Code Folding
-![Orchid with Code Folding](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-code-folding.png)
+![Orchid with Code Folding](./orchid-code-folding.png)
 
 ## CSS Color Preview
-![Orchid with CSS Color Preview](https://raw.githubusercontent.com/patrickfatrick/orchid-theme/master/orchid-css-color-preview.png)
+![Orchid with CSS Color Preview](./orchid-css-color-preview.png)

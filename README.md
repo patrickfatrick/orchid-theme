@@ -1,7 +1,7 @@
 ![Brackets Themes](https://github.com/Brackets-Themes/TomorrowNight/blob/master/bracket-themes-icon-100x99.png) The Orchid theme for Brackets
 =========
 
-A Brackets original. This theme is intended to be easy on the eyes. Inspired by the family of flowers as well as their affiliation with testicular cancer, which I was diagnosed with in November 2014. 
+A Brackets original. This theme is intended to be pleasant but still easy to read.
 
 The CSS is modified from Ryan Stewart's [Tomorrow Night theme for Brackets](https://github.com/Brackets-Themes/TomorrowNight).
 
@@ -24,9 +24,3 @@ For more themes and install instructions see the [Brackets Themes website](http:
 
 ## JavaScript
 ![Orchid Theme in a JS file](./orchid-js.png)
-
-## Code Folding
-![Orchid with Code Folding](./orchid-code-folding.png)
-
-## CSS Color Preview
-![Orchid with CSS Color Preview](./orchid-css-color-preview.png)
